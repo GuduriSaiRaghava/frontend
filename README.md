@@ -1,4 +1,4 @@
-adding a random text for harness trigger
+adding a random text for harness trigger test
 ## Available Scripts
 
 In the project directory, you can run:
